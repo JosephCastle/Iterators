@@ -8,5 +8,6 @@ It will be my project to practice all about c# code.
 - Array
 - List
 
-That is all
-This is it
+-That is all
+-This is it
+-Do not stop until you get enough
