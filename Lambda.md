@@ -1,0 +1,2 @@
+# Lambda
+Lambda expressions in C# are used like anonymous functions, with the difference that in Lambda expressions you don’t need to specify the type of the value that you input thus making it more flexible to use
